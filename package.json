@@ -1,0 +1,9 @@
+{
+  "name": "git-ignore",
+  "version": "0.0.1",
+  "description": "Tool for adding defaults to your .gitignore",
+  "main": "index.js",
+  "repository": "https://github.com/camullen/git-ignore.git",
+  "author": "Cam Mullen <cameron.mullen@gmail.com>",
+  "license": "MIT"
+}
